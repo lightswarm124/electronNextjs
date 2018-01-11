@@ -1,4 +1,4 @@
-node_modules/
-dist/
-renderer/.next/
-renderer/out/
+node_modules/*
+dist/*
+renderer/.next/*
+renderer/out/*
