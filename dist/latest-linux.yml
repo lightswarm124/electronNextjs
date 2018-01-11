@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: electron-quick-start-1.0.0-x86_64.AppImage
+    sha512: mtodUoM/DBsuE03BlAPdiSYx6uLTRyEY17DzaEk9XYkTlmCBNuPv6q81tNLOF9otnMEZLo8/KOYhCr70sWbLTA==
+    size: 52080573
+    blockMapSize: 55553
+path: electron-quick-start-1.0.0-x86_64.AppImage
+sha512: mtodUoM/DBsuE03BlAPdiSYx6uLTRyEY17DzaEk9XYkTlmCBNuPv6q81tNLOF9otnMEZLo8/KOYhCr70sWbLTA==
+releaseDate: '2018-01-11T04:35:01.726Z'
