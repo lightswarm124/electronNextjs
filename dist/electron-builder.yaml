@@ -1,8 +1,0 @@
-directories:
-  output: dist
-  buildResources: build
-files:
-  - '**/*'
-  - '!renderer'
-  - renderer/out
-electronVersion: 1.7.10
